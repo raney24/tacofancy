@@ -12,7 +12,7 @@ This repository contains a few different directories:
 * [mixins](/mixins)
     * The base is important, but what you add to it is what makes the taco glow.
 * [condiments](/condiments)
-    * Do you make a motherfucking *salsa*? Do you know how to pickle your own jalapeños? Yeah, put it here.
+    * Do you make *salsa*? Do you know how to pickle your own jalapeños? Yeah, put it here.
 * [seasonings](/seasonings)
     * Hot and spicy? Rubs and mixes? It's all in here.
 * [shells](/shells)
